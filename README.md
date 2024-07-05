@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi, I'm Sergio</h1>
 
-I have one year of experience
-
-I’m currently learning **Terraform**, **Ansible** and **Azure**. See more about me in my [portfolio](https://zelmo-ingeniero.github.io/)
+I have more than one year of experience. I’m currently working **Terraform**, **Ansible** and **Azure**. See more about me in my [portfolio](https://zelmo-ingeniero.github.io/)
 
 <h3 align="center">Languages</h3>
 
@@ -35,20 +33,18 @@ I’m currently learning **Terraform**, **Ansible** and **Azure**. See more abou
 
 ### Connect with me
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/sergio-jared-valencia-cortaza-806551253/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin profile" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/21862763" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Go to my StackOverflow account" height="30" width="40" />
-    </a>
-    <a href="https://www.kaggle.com/sergiojaredvalencia" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="My Kaggle account" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/sergiojared.valencia.3" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="My Facebook account" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCZDzVVdgyy7Da0v6GCqQC5w" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="My YouTube channel" height="30" width="40" />
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/sergio-jared-valencia-cortaza-806551253/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin profile" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/21862763" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Go to my StackOverflow account" height="30" width="40" />
+</a>
+<a href="https://www.kaggle.com/sergiojaredvalencia" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="My Kaggle account" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/sergiojared.valencia.3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="My Facebook account" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/channel/UCZDzVVdgyy7Da0v6GCqQC5w" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="My YouTube channel" height="30" width="40" />
+</a>
