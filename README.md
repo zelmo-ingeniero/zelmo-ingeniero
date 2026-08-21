@@ -7,7 +7,15 @@ Computational Systems Engineer from Mexico with +3 years of experience, I like u
 
 See more about me in my [portfolio](https://zelmo-ingeniero.github.io/)
 
-<h3 align="center">Clouds</h3>
+<h3 align="center">Skills</h3>
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> GNU/Linux
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
+- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> Azure
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker
+- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/> GCP
+- <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> Terraform
+
 
 <h3 align="center">Clouds</h3>
 
