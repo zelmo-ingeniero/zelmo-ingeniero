@@ -1,26 +1,15 @@
 
-<h3 align="center">Systems Engineer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 <h1 align="center">Hi, I'm Sergio</h1>
 
-I have more than one year of experience. I’m currently working **Terraform**, **Ansible** and **Azure**. See more about me in my [portfolio](https://zelmo-ingeniero.github.io/)
+Computational Systems Engineer from Mexico with +3 years of experience, I like usually learning new technical things every day. I have been helping customers to solve their technical problems. Currently, I'm working for an American company!. 
 
-<h3 align="center">Languages</h3>
+See more about me in my [portfolio](https://zelmo-ingeniero.github.io/)
 
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</p>
+<h3 align="center">Clouds</h3>
 
-<h3 align="center">Databases</h3>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</p>
-
-<h3 align="center">Clouds and other tools that I use</h3>
+<h3 align="center">Clouds</h3>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -31,7 +20,7 @@ I have more than one year of experience. I’m currently working **Terraform**, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
 </p>
 
-### Connect with me
+### Contact
 
 <a href="https://www.linkedin.com/in/sergio-jared-valencia-cortaza-806551253/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin profile" height="30" width="40" />
